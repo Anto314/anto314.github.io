@@ -1,7 +1,7 @@
 # Site settings
 title: Antoine MOÏSE
 description: >
-  A simple Blog Hosted in AWS based on Jekyll, that contains Various Cloud Related Stuff
+  A simple Blog about topics about Cloud in various domain
 
 baseurl: "/" # the subpath of your site, e.g. /blog/
 url: "https://anto314.github.io" # the base hostname & protocol for your site
