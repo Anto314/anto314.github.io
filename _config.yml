@@ -1,5 +1,5 @@
 # Site settings
-title: Pudhina
+title: Antoine MOÏSE
 description: >
   A simple, minimal Jekyll theme for a personal web page and blog, focusing on white space and readability
 
@@ -7,7 +7,7 @@ baseurl: "/" # the subpath of your site, e.g. /blog/
 url: "https://anto314.github.io" # the base hostname & protocol for your site
 
 author:
-  fullname: Pudhina
+  fullname: Antoine MOÏSE
   github: github
   linkedin: linkedin
   email: example@email.com
